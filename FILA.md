@@ -7,7 +7,7 @@ URL do vídeo: `https://raw.githubusercontent.com/leonardopavan10-web/acervo-ree
 |---|------|---------|--------|
 | 0 | 12/11 | VT4_1_laco_de_fita (postado pelo Leonardo no app) | publicado |
 | 1 | 12/11 | VT4_2_luto_fechado_IG.mp4 | publicado (media 17907840597349616) |
-| 2 | 13/11 | OG4_1_bombacha_encalhada_IG.mp4 | na fila |
+| 2 | 13/11 | OG4_1_bombacha_encalhada_IG.mp4 | publicado (media 18114001073266238) |
 | 3 | 14/11 | OG6_1_moedas_viram_botoes_IG.mp4 | na fila |
 | 4 | 15/11 | VT1_1_mulher_global_IG.mp4 | na fila |
 | 5 | 16/11 | OG4_2_tirador_IG.mp4 | na fila |
