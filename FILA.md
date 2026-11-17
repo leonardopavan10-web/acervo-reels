@@ -11,7 +11,7 @@ URL do vídeo: `https://raw.githubusercontent.com/leonardopavan10-web/acervo-ree
 | 3 | 14/11 | OG6_1_moedas_viram_botoes_IG.mp4 | publicado (media 18126422776990255) |
 | 4 | 15/11 | VT1_1_mulher_global_IG.mp4 | publicado (media 17991510857874552) |
 | 5 | 16/11 | OG4_2_tirador_IG.mp4 | publicado (media 18120337150799791) |
-| 6 | 17/11 | VT4_3_menina_moca_senhora_IG.mp4 | na fila |
+| 6 | 17/11 | VT4_3_menina_moca_senhora_IG.mp4 | publicado (media 18102585410564397) |
 | 7 | 18/11 | OG6_2_guaiaca_mensagem_IG.mp4 | na fila |
 | 8 | 19/11 | VT1_2_tintas_do_pampa_IG.mp4 | na fila |
 | 9 | 20/11 | OG4_3_ceroulas_de_renda_IG.mp4 | na fila |
