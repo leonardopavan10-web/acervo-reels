@@ -16,7 +16,7 @@ URL do vídeo: `https://raw.githubusercontent.com/leonardopavan10-web/acervo-ree
 | 8 | 19/11 | VT1_2_tintas_do_pampa_IG.mp4 | publicado (media 18139208110633743) |
 | 9 | 20/11 | OG4_3_ceroulas_de_renda_IG.mp4 | publicado (media 18102383243087669) |
 | 10 | 21/11 | OG6_3_credito_na_roupa_IG.mp4 | publicado (media 18394131847234683) |
-| 11 | 22/11 | VT1_3_vestido_de_prenda_IG.mp4 | na fila |
+| 11 | 22/11 | VT1_3_vestido_de_prenda_IG.mp4 | publicado (media 18113659643246692) |
 
 ## Regras fixas (valem para todo post)
 - Toda legenda termina com a linha de transparência de IA, logo antes das hashtags:
