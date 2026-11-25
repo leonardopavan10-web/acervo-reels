@@ -134,3 +134,39 @@ Babados, armação e regulamento: de onde veio o vestido de prenda que conhecemo
 🎙️ Narração e imagens criadas com IA a partir de pesquisa histórica.
 
 #vestidodeprenda #culturagaucha #prenda #mtg #tradicaogaucha #historia #ctg
+
+---
+
+# Lote 2 — modelo novo (gancho na abertura, imagem em movimento, pergunta no fim)
+Ritmo: 2 por semana (terça e sexta, 19h).
+
+| # | Data | Arquivo | Status |
+|---|------|---------|--------|
+| 12 | 27/11 | T1_som_do_passo.mp4 | na fila |
+| 13 | 01/12 | T2_saipote.mp4 | na fila |
+
+### 12 — T1_som_do_passo.mp4
+Dava pra saber quem chegava só pelo som do passo 👣
+
+O tamanco de madeira batendo nas pedras anunciava o trabalhador. O passo macio da botina, a senhora da estância.
+
+E pra ti: qual som te leva de volta pra casa dos teus avós? Conta aqui embaixo 👇
+
+▶ Episódio completo no YouTube: Acervo do Movimento — Vestir o Tempo, EP. 2
+
+🎙️ Narração e imagens criadas com IA a partir de pesquisa histórica.
+
+#vestirotempo #culturagaucha #tradicaogaucha #historia #prenda #pilcha #ctg
+
+### 13 — T2_saipote.mp4
+Como galopar de saia sem mostrar nem o tornozelo? 🐎
+
+A resposta tinha nome: saipote. Uma saia de montaria tão longa que, em cima do cavalo, virava uma tenda.
+
+Tu já tinha ouvido falar do saipote? Comenta aqui 👇
+
+▶ Episódio completo no YouTube: Acervo do Movimento — Vestir o Tempo, EP. 2
+
+🎙️ Narração e imagens criadas com IA a partir de pesquisa histórica.
+
+#vestirotempo #culturagaucha #tradicaogaucha #historia #prenda #pilcha #ctg
