@@ -142,7 +142,7 @@ Ritmo: 2 por semana (terça e sexta, 19h).
 
 | # | Data | Arquivo | Status |
 |---|------|---------|--------|
-| 12 | 27/11 | T1_som_do_passo.mp4 | na fila |
+| 12 | 27/11 | T1_som_do_passo.mp4 | publicado (media 18352325707254941) |
 | 13 | 01/12 | T2_saipote.mp4 | na fila |
 
 ### 12 — T1_som_do_passo.mp4
